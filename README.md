@@ -1,3 +1,0 @@
-# psychic-train
-TKVMlab4
-
